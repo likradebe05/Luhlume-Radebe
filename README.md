@@ -23,11 +23,13 @@ I thrive on designing innovative solutions that integrate UI, navigation, and da
 ### 🔹 [Task Management Web Application](https://github.com/yourrepo/task-management)
 Designed a **UML ERD** for structured task workflows, integrating backend logic.
 
-### 🔹 [Login & Register App](https://github.com/yourrepo/login-register-app)
+### 🔹 [Login & Register App](https://github.com/likradebe05/MyApplication2.git)
 A Kotlin-based authentication system with **Room database** and smooth **navigation**.
 
 ### 🔹 [Business Rule Documentation](https://github.com/yourrepo/business-rules)
 Drafted operational guidelines for efficient task management in a business setting.
+
+## 🔹 [UI Design for restaurant Mobile Application](https://www.figma.com/design/mWyxaU7nni3aUEevlS3Jej/Restaurant-Mangement-System-UI---Placing-Order?node-id=16-297&m=dev&t=zvwJwFbkZMcawUcE-1)
 
 ## 🎯 Goals
 - Expand expertise in **software engineering techniques**.
