@@ -13,6 +13,37 @@ I specialize in:
 
 I thrive on designing innovative solutions that integrate UI, navigation, and database layers seamlessly.
 
+## Skills & Expertise
+
+### Programming & Development
+- Java, Python, JavaScript, C#
+- Flutter, React Native
+- HTML5, CSS3, React.js
+- SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- Git & GitHub
+
+### Software Design & Architecture
+- Object-Oriented Programming (OOP)
+- REST API Development
+- MVC & MVVM Patterns
+
+### Testing & Debugging
+- Unit Testing (JUnit, pytest)
+- Debugging & Troubleshooting
+
+### Soft Skills
+- Problem-solving & Critical Thinking
+- Effective Communication
+- Team Collaboration & Agile Methodologies
+- Time Management
+
+## Work Readiness Training
+I successfully completed comprehensive Work Readiness Training, which included:
+- **Career Development:** Resume writing, interview preparation, and workplace etiquette
+- **Soft Skills Development:** Communication, teamwork, time management
+- **Technical Skills Training:**  Android Studio, IntelliJ IDEA, Agile Methodology, Springboot, Git and GitHub.
+- **Projects & Activities:** Participated in simulated workplace scenarios, group projects, and workshops to enhance practical skills and readiness for professional environments.
+
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Room Database](https://img.shields.io/badge/Room_Database-003B57?style=flat&logo=sqlite&logoColor=white)
